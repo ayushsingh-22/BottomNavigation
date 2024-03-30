@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/connect"
+        android:title="Connect"
+        android:icon="@drawable/baseline_connect_without_contact_24"/>
+
+    <item android:id="@+id/blog"
+        android:title="Blog"
+        android:icon="@drawable/baseline_animation_24"/>
+
+    <item android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/baseline_account_box_24"/>
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_add_home_24"/>
+
+    <item android:id="@+id/trend"
+        android:title="Trend"
+        android:icon="@drawable/baseline_arrow_outward_24"/>
+
+
+</menu>
